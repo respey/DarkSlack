@@ -14,7 +14,7 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
-.bordered { border: 1px solid #363636; }
+.bordered { border: 100px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
 
@@ -56,7 +56,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .c-scrollbar--monkey .c-scrollbar__bar { background: #545454; box-shadow: 0 3px 0 #222, 0 -3px 0 #222; }
 
-.client_channels_list_container { background-color: #000000; border-right-color: #222; }
+.client_channels_list_container { background-color: #363636; border-right-color: #222; }
 
 #col_channels { color: #e6e6e6; }
 
